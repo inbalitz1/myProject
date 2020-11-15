@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test01: login to Evrit",
+    "uid" : "f3841d0df7a5f8cc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1602321349739,
+      "stop" : 1602321354692,
+      "duration" : 4953
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "test01: verify screen resolution",
+    "uid" : "dfcf6ed06187cc59",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1602323724214,
+      "stop" : 1602323725343,
+      "duration" : 1129
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "electron" ]
+  } ]
+}

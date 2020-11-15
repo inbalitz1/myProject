@@ -1,0 +1,357 @@
+{
+  "9d44894ecf38f8803057403df8d8bb2b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c67f734519337ecd",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/9/allure/#testresult/c67f734519337ecd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602260273924,
+        "stop" : 1602260274045,
+        "duration" : 121
+      }
+    } ]
+  },
+  "a8de07bb68bb12862e0e1ed1e7e8c2ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6588a196f729b49d",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/9/allure/#testresult/6588a196f729b49d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602260269229,
+        "stop" : 1602260273765,
+        "duration" : 4536
+      }
+    } ]
+  },
+  "789153e8fa3cd4f19fb5a09094a17e3d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "238cc24885e9d942",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/10/allure/#testresult/238cc24885e9d942",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602267437653,
+        "stop" : 1602267438770,
+        "duration" : 1117
+      }
+    }, {
+      "uid" : "5a9a303a2e11c243",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/9/allure/#testresult/5a9a303a2e11c243",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602266655486,
+        "stop" : 1602266656352,
+        "duration" : 866
+      }
+    } ]
+  },
+  "e160e61b5a26f0032089f415ddd02873" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "3b2f650851ff016b",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/9/allure/#testresult/3b2f650851ff016b",
+      "status" : "broken",
+      "statusDetails" : "unknown error: session deleted because of page crash\nfrom tab crashed\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-B193SS4', ip: '192.168.43.122', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\\Users\\Owner\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61295}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: f73797023001b831d87ce511d6d9bae1",
+      "time" : {
+        "start" : 1602259978790,
+        "stop" : 1602259978790,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cdc008d9bba7775b",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/8/allure/#testresult/cdc008d9bba7775b",
+      "status" : "broken",
+      "statusDetails" : "unknown error: session deleted because of page crash\nfrom tab crashed\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-B193SS4', ip: '192.168.43.122', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\\Users\\Owner\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61295}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: f73797023001b831d87ce511d6d9bae1",
+      "time" : {
+        "start" : 1602259978790,
+        "stop" : 1602259978790,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a3d648ccaf10e54e",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/7/allure/#testresult/a3d648ccaf10e54e",
+      "status" : "broken",
+      "statusDetails" : "unknown error: session deleted because of page crash\nfrom tab crashed\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-B193SS4', ip: '192.168.43.122', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\\Users\\Owner\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61295}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: f73797023001b831d87ce511d6d9bae1",
+      "time" : {
+        "start" : 1602259978790,
+        "stop" : 1602259978790,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ade85ace0b928ccf43b0f62534a64af4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa0c13bd3bac440b",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/9/allure/#testresult/fa0c13bd3bac440b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602266590406,
+        "stop" : 1602266595696,
+        "duration" : 5290
+      }
+    } ]
+  },
+  "51284869009d9a38eec931a8b09f3fd8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "8231e3f6230ba281",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/9/allure/#testresult/8231e3f6230ba281",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602260014693,
+        "stop" : 1602260015581,
+        "duration" : 888
+      }
+    }, {
+      "uid" : "abb912c4016d7c1c",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/8/allure/#testresult/abb912c4016d7c1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602260014693,
+        "stop" : 1602260015581,
+        "duration" : 888
+      }
+    }, {
+      "uid" : "ac2b84d2b036dee7",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/7/allure/#testresult/ac2b84d2b036dee7",
+      "status" : "skipped",
+      "statusDetails" : "unknown error: session deleted because of page crash\nfrom tab crashed\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-B193SS4', ip: '192.168.43.122', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\\Users\\Owner\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61295}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: f73797023001b831d87ce511d6d9bae1",
+      "time" : {
+        "start" : 1602259979275,
+        "stop" : 1602259979285,
+        "duration" : 10
+      }
+    } ]
+  },
+  "2f444a0467f546a6bc478fe19f295b5f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "ceb21c75dda2c6ca",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/9/allure/#testresult/ceb21c75dda2c6ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602260894675,
+        "stop" : 1602260900440,
+        "duration" : 5765
+      }
+    }, {
+      "uid" : "9858c867b2b9397d",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/8/allure/#testresult/9858c867b2b9397d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602259902114,
+        "stop" : 1602259909623,
+        "duration" : 7509
+      }
+    }, {
+      "uid" : "9e06537edbfeba77",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/7/allure/#testresult/9e06537edbfeba77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602259902114,
+        "stop" : 1602259909623,
+        "duration" : 7509
+      }
+    }, {
+      "uid" : "d521cbd902562eb0",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/6/allure/#testresult/d521cbd902562eb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602255458425,
+        "stop" : 1602255463387,
+        "duration" : 4962
+      }
+    }, {
+      "uid" : "595931da8894d21a",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/5/allure/#testresult/595931da8894d21a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602255458425,
+        "stop" : 1602255463387,
+        "duration" : 4962
+      }
+    }, {
+      "uid" : "3d7a8e5cf10b3f8d",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/4/allure/#testresult/3d7a8e5cf10b3f8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602255458425,
+        "stop" : 1602255463387,
+        "duration" : 4962
+      }
+    }, {
+      "uid" : "ebf826167a347809",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/3/allure/#testresult/ebf826167a347809",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602255458425,
+        "stop" : 1602255463387,
+        "duration" : 4962
+      }
+    }, {
+      "uid" : "74afb5cb67c73837",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/2/allure/#testresult/74afb5cb67c73837",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602255458425,
+        "stop" : 1602255463387,
+        "duration" : 4962
+      }
+    }, {
+      "uid" : "8e91b5b14cb5a945",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/1/allure/#testresult/8e91b5b14cb5a945",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602255458425,
+        "stop" : 1602255463387,
+        "duration" : 4962
+      }
+    }, {
+      "uid" : "12c94fe2cc1dac2",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Web/10/allure/#testresult/12c94fe2cc1dac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602255458425,
+        "stop" : 1602255463387,
+        "duration" : 4962
+      }
+    }, {
+      "uid" : "4d3cb876f28caa27",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Web/9/allure/#testresult/4d3cb876f28caa27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602255458425,
+        "stop" : 1602255463387,
+        "duration" : 4962
+      }
+    }, {
+      "uid" : "16519fbd3c6c6141",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Web/8/allure/#testresult/16519fbd3c6c6141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602255458425,
+        "stop" : 1602255463387,
+        "duration" : 4962
+      }
+    }, {
+      "uid" : "df3800d079f7e614",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Web/7/allure/#testresult/df3800d079f7e614",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602255458425,
+        "stop" : 1602255463387,
+        "duration" : 4962
+      }
+    }, {
+      "uid" : "c4f2d04960e5a331",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Web/6/allure/#testresult/c4f2d04960e5a331",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602255458425,
+        "stop" : 1602255463387,
+        "duration" : 4962
+      }
+    }, {
+      "uid" : "30326c626343bb39",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Web/5/allure/#testresult/30326c626343bb39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602254931307,
+        "stop" : 1602254940572,
+        "duration" : 9265
+      }
+    } ]
+  },
+  "8bfaab2849bd78f464057919d82953ab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e335ba009bc71e8",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/10/allure/#testresult/6e335ba009bc71e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602267329035,
+        "stop" : 1602267341373,
+        "duration" : 12338
+      }
+    } ]
+  },
+  "a09ceeb67c103ea2e719729a925f1acd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5d2ca0c68d1a0dd",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/9/allure/#testresult/b5d2ca0c68d1a0dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602260274062,
+        "stop" : 1602260274208,
+        "duration" : 146
+      }
+    } ]
+  }
+}

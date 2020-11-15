@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+<!--    TimeOut-->
+    <TimeOut>12</TimeOut>
+
+
+    <user>iinbal789@gmail.com</user>
+    <pass>Qaz12345</pass>
+
+
+    <!--   platform-->
+    <PlatformName>web</PlatformName>
+
+
+<!--    web-->
+
+    <BrowserName>Chrome</BrowserName>
+    <url>https://www.e-vrit.co.il/</url>
+
+    <ImageRepo>./imageRepository/</ImageRepo>
+
+
+    <!--    mobile-->
+    <UDID>ca50e07a0504</UDID>
+    <APP_PACKAGE>com.yit.evritViewer</APP_PACKAGE>
+    <APP_ACTIVITY>com.yit.evrit.viewer.SplashActivity</APP_ACTIVITY>
+
+
+    <!--    api-->
+    <url_api>http://localhost:3000/</url_api>
+
+
+
+    <!--    electron-->
+    <ElectronDriverPath>./Drivers/electrondriver.exe</ElectronDriverPath>
+    <ElectronAppPath>C:/Automation/Electron API Demos-win32-ia32/Electron API Demos.exe</ElectronAppPath>
+
+    <!--    desktop-->
+    <calculatorAPP>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</calculatorAPP>
+    <Appium_server>http://127.0.0.1:4723/</Appium_server>
+
+    <!--     DB   -->
+    <dbURL>jdbc:mysql://remotemysql.com:3306/8GvLAAjx08</dbURL>
+    <dbUser>8GvLAAjx08</dbUser>
+    <dbPass>lzckZnYoDP</dbPass>
+</Environment>
